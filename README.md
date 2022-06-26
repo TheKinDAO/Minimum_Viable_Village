@@ -1,3 +1,10 @@
+# Minimum Viable Village
+
+A Minimum Viable Village must produce all essential goods and services onsite, with the (suggested) option to group with other MVVs, and for those groups to also group, much like cells group into organs, organs into multi-cellular organisms, and organisms into groups of their own.
+
+Forked from https://github.com/Learn-NEAR/NCD.L1.sample--nearly-neighbors
+
+# original README.md
 # Nearly Neighbors
 
 A family of smart contracts developed for NEAR Protocol to enable crowd-sourced civic development. Think Kickstarter for neighborhood projects.
